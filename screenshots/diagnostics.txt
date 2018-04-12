@@ -1,0 +1,17 @@
+04-12 06:12:07.708 8532-8532/? I/art: Not late-enabling -Xcheck:jni (already on)
+04-12 06:12:07.710 8532-8532/? W/art: Unexpected CPU variant for X86 using defaults: x86
+04-12 06:12:07.854 8532-8532/edu.washington.bdinh.activityspy W/System: ClassLoader referenced unknown path: /data/app/edu.washington.bdinh.activityspy-2/lib/x86
+04-12 06:12:07.903 8532-8532/edu.washington.bdinh.activityspy W/art: Before Android 4.1, method android.graphics.PorterDuffColorFilter android.support.graphics.drawable.VectorDrawableCompat.updateTintFilter(android.graphics.PorterDuffColorFilter, android.content.res.ColorStateList, android.graphics.PorterDuff$Mode) would have incorrectly overridden the package-private method in android.graphics.drawable.Drawable
+04-12 06:12:08.136 8532-8532/edu.washington.bdinh.activityspy I/MainActivity: onCreate event fired Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.bdinh.activityspy/.MainActivity }
+04-12 06:12:08.223 8532-8553/edu.washington.bdinh.activityspy I/OpenGLRenderer: Initialized EGL, version 1.4
+04-12 06:12:08.224 8532-8553/edu.washington.bdinh.activityspy D/OpenGLRenderer: Swap behavior 1
+04-12 06:12:08.224 8532-8553/edu.washington.bdinh.activityspy W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+04-12 06:12:08.224 8532-8553/edu.washington.bdinh.activityspy D/OpenGLRenderer: Swap behavior 0
+04-12 06:12:08.226 8532-8553/edu.washington.bdinh.activityspy D/EGL_emulation: eglCreateContext: 0xacd851e0: maj 3 min 0 rcv 3
+04-12 06:12:08.228 8532-8553/edu.washington.bdinh.activityspy D/EGL_emulation: eglMakeCurrent: 0xacd851e0: ver 3 0 (tinfo 0xacd831f0)
+04-12 06:12:08.265 8532-8553/edu.washington.bdinh.activityspy D/EGL_emulation: eglMakeCurrent: 0xacd851e0: ver 3 0 (tinfo 0xacd831f0)
+04-12 06:12:34.571 8532-8553/edu.washington.bdinh.activityspy D/EGL_emulation: eglMakeCurrent: 0xacd851e0: ver 3 0 (tinfo 0xacd831f0)
+04-12 06:12:44.542 8532-8553/edu.washington.bdinh.activityspy D/EGL_emulation: eglMakeCurrent: 0xacd851e0: ver 3 0 (tinfo 0xacd831f0)
+04-12 06:12:52.895 8532-8553/edu.washington.bdinh.activityspy D/EGL_emulation: eglMakeCurrent: 0xacd851e0: ver 3 0 (tinfo 0xacd831f0)
+04-12 06:12:53.132 8532-8532/edu.washington.bdinh.activityspy E/MainActivity: We're going down, Captain! Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=edu.washington.bdinh.activityspy/.MainActivity }
+
